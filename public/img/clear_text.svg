@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="17.925" viewBox="0 0 22 17.925">
+  <defs>
+    <clipPath id="clip-remove_text">
+      <rect width="22" height="17.925"/>
+    </clipPath>
+  </defs>
+  <g id="remove_text" data-name="remove text" clip-path="url(#clip-remove_text)">
+    <g id="Group_5" data-name="Group 5" transform="translate(2399.672 362.777)">
+      <g id="Group_4" data-name="Group 4">
+        <path id="Path_3" data-name="Path 3" d="M-2394.922-351.788v-8.673h-1.825q-.538,0-.539.726v1.1l-2.386-.164v-3.978h12.237v3.978l-2.387.164v-1.1a1.006,1.006,0,0,0-.117-.562c-.078-.108-.265-.164-.561-.164h-1.591v9.235l1.849.07v1.989h-6.6v-1.9l1.24-.069Q-2394.921-351.2-2394.922-351.788Z" fill="#404040"/>
+      </g>
+      <path id="Path_4" data-name="Path 4" d="M-2380.1-348.908l2.428,2.428-1.626,1.627-2.429-2.429-2.428,2.429-1.627-1.627,2.429-2.428-2.429-2.428,1.627-1.627,2.428,2.428,2.429-2.428,1.626,1.627Z" fill="#404040"/>
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="11.699" height="1.95" transform="translate(-2399.403 -346.802)" fill="#404040"/>
+    </g>
+  </g>
+</svg>
